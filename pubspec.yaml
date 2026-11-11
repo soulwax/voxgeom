@@ -1,0 +1,11 @@
+name: voxgeom
+description: Fast, allocation-conscious 3D geometric testing, raycasting, frustum culling, and spatial queries for Dart.
+version: 0.1.0
+homepage: https://github.com/soulwax/voxgeom
+repository: https://github.com/soulwax/voxgeom
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.24.0
