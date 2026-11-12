@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxgeom logo"/>
+</p>
+
 # voxgeom
 
 Fast, allocation-conscious 3D geometric testing, raycasting, frustum culling, and spatial queries for Dart.
